@@ -1,0 +1,21 @@
+** Drc report for Proyecto electronica 1.kicad_pcb **
+** Created on 2026-11-04T22:31:39 **
+** Report includes: Errors, Warnings **
+
+** Found 1 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(81.4500 mm, 151.3000 mm): Track [GND] on B.Cu, length 1.5556 mm
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
